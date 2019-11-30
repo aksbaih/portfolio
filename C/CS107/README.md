@@ -1,0 +1,2 @@
+
+Pay attention to how robust this implementation is with edge cases. I chose to share this specific assignment because it uses many concepts from the course and has an open-ended component. I recommend reading over the "explicit.c" version because it uses my own designed algorithm that accomplishes great utilization (after comparing it to other peoples' designs) and does it in logarithmic time if not faster (which is a lot better than other solutions by other people). 
