@@ -1,0 +1,1 @@
+This is part of my implementation of huffman compression algorithm with a number of extra features designed by me for security and effeciency purposes. Check the header of the cpp file for brief details of these features and why they work.

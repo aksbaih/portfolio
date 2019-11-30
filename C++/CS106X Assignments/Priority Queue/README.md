@@ -1,0 +1,2 @@
+Each of these classes (a .h file and a .cpp file) is a different implementation of a priority queue according to the description after the dash in its name.
+Notice the efficiency of the implementation especially for the binomial heap and the robustness of the object organization.

@@ -1,0 +1,2 @@
+
+Brief descriptions of the algorithms I designed and built for this project, how they work, and what they do, are available in the PDF Documentation file above. This code is a good example of my use of NumPy and SciPy in a clean and super-effecient manner. I encourage you to read over "part2ell.py" for a good picture. Screenshoots of the GUI working are available above, too.

@@ -1,0 +1,3 @@
+These are snippets of my code base for the robotic haptic perception project (more details below). It is a good example to see my code organization and wide use of Object-Oriented Programming paradigm. The project is still ongoing and is not completely public yet. 
+
+In this project, supervised by Professor Kenneth Salisbury, I created a new model that uses the Fourier transform over the vibrations of a robotic arm stroking a surface to know more about its physical features. This includes its texture, geometry, friction, and other haptic properties.
